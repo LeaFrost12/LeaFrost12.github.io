@@ -2,3 +2,7 @@ body{
   background-color: magenta;
   font-family: Arial;
 }
+h1{
+  color: blue;
+  text-align: center;
+}
