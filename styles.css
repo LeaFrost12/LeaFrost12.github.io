@@ -1,18 +1,18 @@
 body{
-  background-color: magenta;
-  font-family: Arial;
-}
-h1{
-  color: blue;
-  text-align: center;
-}
-.assign{
-  display: flex;
+    background-color:bisque;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1{
+    color:saddlebrown;
+    text-align: center;
+  }
+  .assign{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: lightgray;
+  }
+  .assign img {
+  width: 200px;
   padding: 10px;
-  margin: 10px;
-  background: green;
-}
-.assign img {
-width: 200px;
-padding: 10px;
-}
+  }
