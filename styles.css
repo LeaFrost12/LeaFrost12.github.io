@@ -7,7 +7,7 @@ body{
     text-align: center;
   }
   .assign{
-    display: flex;
+    /*display: flex;*/
     padding: 10px;
     margin: 10px;
     background: lightgray;
