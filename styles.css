@@ -11,6 +11,8 @@ body{
     padding: 10px;
     margin: 10px;
     background: lightgray;
+    border-radius: 20px;
+    box-shadow: 8px 8px black;
   }
 
 a {
@@ -21,9 +23,7 @@ a {
  padding: 10px; /* change this from margin to padding */
  border: 2px solid midnightblue; /* try dashed, dotted */
 }
-.assign {
- border-radius: 20px; /* curved corners */
-}
+
 Explain a:hover, img:hover, h1:hover
 a:hover {
  text-decoration: none; /* remove underlining on anchor tags */
