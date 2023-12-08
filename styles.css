@@ -77,3 +77,9 @@ a:hover {
  margin: auto;
  border: 2px dotted red;
 }
+.container img {
+  object-fit: contain;
+/* or
+  object-fit: cover; */
+} 
+
