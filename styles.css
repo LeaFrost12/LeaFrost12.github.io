@@ -60,7 +60,7 @@ a:hover {
 }
 .assign {
  background-color: lightgrey;
- margin: auto;
+ margin: 12px;
  padding: 10px;
  border-radius: 20px;
  width: 25%;
@@ -75,7 +75,7 @@ a:hover {
 .assign img:hover {
  width: 455px;
  margin: auto;
- border: 2px dotted red;
+ border: 2px dotted midnightblue;
 }
 .container img {
   object-fit: contain;
