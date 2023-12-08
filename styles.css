@@ -68,12 +68,12 @@ a:hover {
  display: block; /* instead of flex */
 }
 .assign img {
- width: 300px;
+ width: 450px;
  margin: auto;
  border: 2px solid black;
 }
 .assign img:hover {
- width: 305px;
+ width: 455px;
  margin: auto;
  border: 2px dotted red;
 }
