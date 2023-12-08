@@ -69,11 +69,11 @@ a:hover {
 }
 .assign img {
  width: 300px;
- margin: 10px;
+ margin: auto;
  border: 2px solid black;
 }
 .assign img:hover {
  width: 305px;
- margin: 10px;
+ margin: auto;
  border: 2px dotted yellow;
 }
