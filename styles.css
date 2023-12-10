@@ -68,14 +68,16 @@ a:hover {
  display: block; /* instead of flex */
 }
 .assign img {
+ object-fit: contain;
  margin: auto;
  border: 2px solid black;
 }
 .assign img:hover {
+object-fit: contain;
  margin: auto;
  border: 2px dotted midnightblue;
 }
-.container img {
+/*.container img {
   object-fit: contain;
 /* or
   object-fit: cover; */
