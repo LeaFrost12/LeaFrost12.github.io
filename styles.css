@@ -68,13 +68,15 @@ a:hover {
  display: block; /* instead of flex */
 }
 .assign img {
- object-fit: contain;
- margin: auto;
  border: 2px solid black;
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
 .assign img:hover {
-object-fit: contain;
- margin: auto;
+max-width: 100%;
+    height: auto;
+    width: auto\9; 
  border: 2px dotted midnightblue;
 }
 /*.container img {
